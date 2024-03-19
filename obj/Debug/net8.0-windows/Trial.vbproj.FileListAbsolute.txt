@@ -1,0 +1,16 @@
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\bin\Debug\net8.0-windows\Trial.exe
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\bin\Debug\net8.0-windows\Trial.deps.json
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\bin\Debug\net8.0-windows\Trial.runtimeconfig.json
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\bin\Debug\net8.0-windows\Trial.dll
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\bin\Debug\net8.0-windows\Trial.pdb
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.Form1.resources
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.vbproj.GenerateResource.cache
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.AssemblyInfoInputs.cache
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.AssemblyInfo.vb
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.vbproj.CoreCompileInputs.cache
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.dll
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\refint\Trial.dll
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.pdb
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\Trial.genruntimeconfig.cache
+C:\Users\gikuh\Documents\bsc. computer tech 2.1\Sem 2\Application programming\Code\Trial\Trial\obj\Debug\net8.0-windows\ref\Trial.dll
